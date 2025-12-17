@@ -1,0 +1,15 @@
+Billie_Eilish_Arma.png
+size:256,64
+repeat:none
+correr1_arma
+bounds:93,2,31,48
+correr2_arma
+bounds:53,2,38,48
+golpe1_arma
+bounds:2,2,49,48
+golpe2_arma
+bounds:156,2,28,48
+idle_arma
+bounds:186,2,27,48
+salto_arma
+bounds:126,2,28,48

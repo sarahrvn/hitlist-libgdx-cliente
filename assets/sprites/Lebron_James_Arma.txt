@@ -1,0 +1,15 @@
+Lebron_James_Arma.png
+size:256,64
+repeat:none
+correr1_arma
+bounds:56,2,39,48
+correr2_arma
+bounds:97,2,39,48
+golpe1_arma
+bounds:2,2,52,48
+golpe2_arma
+bounds:172,2,19,48
+idle_arma
+bounds:138,2,32,48
+salto_arma
+bounds:193,2,17,48

@@ -1,0 +1,21 @@
+# Compilación
+.gradle
+build/
+*/build/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.nbproject/
+
+# Locales
+local.properties
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db

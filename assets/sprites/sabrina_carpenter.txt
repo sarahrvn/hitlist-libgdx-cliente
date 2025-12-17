@@ -1,0 +1,11 @@
+sabrina_carpenter.png
+size:78,36
+repeat:none
+correr1
+bounds:23,6,18,28
+correr2
+bounds:2,4,19,30
+idle
+bounds:61,2,15,32
+saltar
+bounds:43,7,16,27

@@ -1,0 +1,95 @@
+botones/Gemini_Generated_Image_kh8vgfkh8vgfkh8v.png
+elementos/espada.png
+fondos/Billie_Menu.png
+fondos/Fondo_Menu.png
+fondos/Fondo_Menu2.png
+fondos/Fondo_Seleccion_Personaje.png
+fondos/Frida_Menu.png
+fondos/Lebron_Menu.png
+fondos/Michael_Menu.png
+fondos/fondo.png
+fondos/mapaCiudad.png
+fuentes/ari-w9500-bold.ttf
+fuentes/ari-w9500-condensed-bold.ttf
+fuentes/ari-w9500-condensed-display.ttf
+fuentes/ari-w9500-condensed.ttf
+fuentes/ari-w9500-display.ttf
+fuentes/ari-w9500.ttf
+fuentes/ari_w9500.zip
+hud/Billie_Hud.png
+hud/Frida_Hud.png
+hud/Lebron_Hud.png
+hud/Michael_Hud.png
+hud/corazon_amarillo.png
+hud/corazon_amarilloo.png
+logos/Hitlist_Titulo.png
+logos/Hitlist_Titulo_128.png
+logos/Hitlist_Titulo_16.png
+logos/Hitlist_Titulo_32.png
+logos/Hitlist_Titulo_64.png
+logos/Punchline_Logo.png
+logos/Titulo_Mas_Chico.png
+mapas/bloque.tsx
+mapas/bloque_madera.png
+mapas/c/mapa_cartel.png
+mapas/c/mapa_cartel.tmx
+mapas/c/mapa_cartel.tsx
+mapas/c/mapa_concierto.tmx
+mapas/escalera.tsx
+mapas/escalera_madera.png
+mapas/mapa.tmx
+mapas/mapa_alfombra_roja.png
+mapas/mapa_alfombra_roja.tmx
+mapas/mapa_alfombra_roja.tsx
+mapas/mapa_cartel.png
+mapas/mapa_cartel.tmx
+mapas/mapa_cartel.tsx
+mapas/mapa_colisiones.tmx
+mapas/mapa_concierto.png
+mapas/mapa_concierto.tmx
+mapas/mapa_concierto.tsx
+mapas/mapa_yate.png
+mapas/mapa_yate.tmx
+mapas/mapa_yate.tsx
+mapas/p.world
+mapas/piso.tsx
+mapas/piso_esquina.tsx
+mapas/piso_madera.png
+mapas/piso_madera_esquina.png
+musica/combate.mp3
+musica/menu_musica.mp3
+sonidos/agarrar_espada.mp3
+sonidos/caida.ogg
+sonidos/menu_mover.mp3
+sonidos/salto.wav
+sprites/Billie preview.png
+sprites/Billie_Eilish.png
+sprites/Billie_Eilish.txt
+sprites/Billie_Eilish_Arma.txt
+sprites/Billie_Victoria.png
+sprites/Frida preview.png
+sprites/Frida_Kahlo.png
+sprites/Frida_Kahlo.txt
+sprites/Frida_Kahlo_Arma.png
+sprites/Frida_Kahlo_Arma.txt
+sprites/Frida_Victoria.png
+sprites/Lebron preview.png
+sprites/Lebron_James.png
+sprites/Lebron_James.txt
+sprites/Lebron_James_Arma.png
+sprites/Lebron_James_Arma.txt
+sprites/Lebron_Victoria.png
+sprites/Michael preview.png
+sprites/Michael_Jackson.png
+sprites/Michael_Jackson.txt
+sprites/Michael_Jackson_Arma.png
+sprites/Michael_Jackson_Arma.txt
+sprites/Michael_Victoria.png
+sprites/Sprite Sheet Billie.png
+sprites/Sprite Sheet Frida Kahlo Arma.png
+sprites/Sprite Sheet Frida Kahlo.png
+sprites/Sprite Sheet Lebron James.png
+sprites/Sprite Sheet Michael Jackson.png
+sprites/Sprite Sheet Sabrina.png
+sprites/sabrina_carpenter.png
+sprites/sabrina_carpenter.txt
